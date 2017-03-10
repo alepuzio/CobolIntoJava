@@ -14,10 +14,8 @@ import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith(Suite.class)
 @SuiteClasses({ TestAttr.class, TestAttributeSet.class,
-
 	TestConfigurationTemplateFactoryInputForHost.class, TestConfigurationTemplateFactoryInputFromHost.class,
-	TestGenerateBean.class/*, TestGenerateSuperClass.class*/, TestGenerateXML.class
-
+	TestGenerateBean.class, TestGenerateXML.class
 })
 public class AllTests {
 
