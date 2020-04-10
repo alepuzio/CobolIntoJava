@@ -1,5 +1,6 @@
 # CobolIntoJava
-This project reads one or more files with typical data of WORKING-STORAGE-SECTION of a Cobol source file and creates the  associated JavaBean classes.
+This project is a more advanced version of the project [COBOL2JavaBean](https://github.com/alepuzio/COBOL2JavaBean): this project has to be merged with that.
+No other development is allowed before this step. 
 
 ## Getting Started
  * See the _Installing_ section.
@@ -20,11 +21,6 @@ This project reads one or more files with typical data of WORKING-STORAGE-SECTIO
 
  * Run _mvn test_
 
-### Break down into end to end tests
- * TODO
-
-### And coding style tests
- * TODO
 
 ## Deployment
 
@@ -39,11 +35,11 @@ This project reads one or more files with typical data of WORKING-STORAGE-SECTIO
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us: it's a good guideline.
+Forbitten any contribute
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the repository.
+Not applicable
 
 ## Authors
 
@@ -51,4 +47,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
